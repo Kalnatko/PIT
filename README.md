@@ -1,3 +1,4 @@
 # PIT
-Pridanie spravy PIT
+Zalozenie suboru
+pridanie textu pit
 DU1
